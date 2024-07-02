@@ -4,13 +4,13 @@ Pilgrimsgatan7B
 Ystad 271 36
 076 890 13 23
 francisc_florinel@yahoo.com
-Knowit
+
 
 Ansökan om praktikplats som DevOps Engineer för perioden 2024-09-23 → 2024-12-13
 Med en solid grund i DevOps från min utbildning på Jensen Education yrkeshögskola Malmö, tillsammans med specifika färdigheter i Java, Python, SQL-databaser, Agil metodik (Scrum), infrastruktur, testing och en certifiering i AZ-900, är jag övertygad om att jag skulle vara en värdefull tillgång för ert team.
 Under min utbildning har jag inte bara utvecklat starka tekniska färdigheter, utan även en djup förståelse för vikten av effektiv kommunikation och samarbete inom ett Agilt projektteam. Jag har arbetat med att implementera och förvalta olika infrastrukturer samt utveckla och testa programvara, vilket har gett mig en omfattande praktisk erfarenhet och en förmåga att snabbt anpassa mig till nya teknologier och arbetsmiljöer.
 Mitt engagemang för ständigt lärande och förbättring driver mig att ständigt utforska nya verktyg och metoder för att effektivisera utvecklings- och driftsprocesser. Min certifiering i AZ-900 är ett bevis på mitt intresse och min kunskap inom molntjänster och infrastruktur, vilket jag tror starkt kan bidra till era pågående och framtida projekt. (AZ-104 certifiering är mitt nästa mål och jobbar på detta i nu lägget)
-Jag är särskilt imponerad av Knowit engagemang för innovation och dess vision om att använda teknologi för att lösa komplexa problem. Jag är övertygad om att en praktikplats hos er inte bara skulle ge mig en ovärderlig inblick i IT-branschen utan också möjligheten att bidra med mina färdigheter och passion för DevOps och programutveckling.
+Jag är särskilt imponerad av ert engagemang för innovation och dess vision om att använda teknologi för att lösa komplexa problem. Jag är övertygad om att en praktikplats hos er inte bara skulle ge mig en ovärderlig inblick i IT-branschen utan också möjligheten att bidra med mina färdigheter och passion för DevOps och programutveckling.
 Tack för att ni överväger min ansökan. Jag ser fram emot möjligheten att diskutera hur jag kan bidra till ert team ytterligare. Jag är tillgänglig för en intervju vid er bekvämlighet och kan nås via 0768901323 eller francisc_florinel@yahoo.com.
 Med vänliga hälsningar,
 Florinel Francisc
