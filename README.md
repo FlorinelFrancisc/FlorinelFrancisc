@@ -13,6 +13,7 @@ francisc_florinel@yahoo.com
        Adress: Pilgrimsgatan7b, Ystad
         Mobil: 076-890 13 23, mejl: francisc_florinel@yahoo.com
 	GitHub: FlorinelFrancisc (Florinel Francisc) (github.com)
+        www.linkedin.com/in/florinel-francisc-544273310
 Utbildning
 2023–09 – pågående DevOps Engineer 
 Jensen Education yrkeshögskola Malmö
