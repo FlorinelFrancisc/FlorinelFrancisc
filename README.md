@@ -10,7 +10,7 @@ francisc_florinel@yahoo.com
 
 	                       CV Florinel Francisc
  	            	 DEVOPS Engineer                               		                                          
-       Adress: Pilgrimsgatan7b, Ystad
+        Adress: Pilgrimsgatan7b, Ystad
         Mobil: 076-890 13 23, mejl: francisc_florinel@yahoo.com
 	GitHub: FlorinelFrancisc (Florinel Francisc) (github.com)
         www.linkedin.com/in/florinel-francisc-544273310
