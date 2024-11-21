@@ -16,7 +16,7 @@ francisc_florinel@yahoo.com
 Utbildning
 2023–09 – pågående DevOps Engineer 
 Jensen Education yrkeshögskola Malmö
-Java grund, Python, SQL, Agil systemutveckling (Scrum), Infrastruktur (Linux server basics: PHP, Node.js, Apache2/Wordpress, Nginx), Testning, Git/Github.Github Actions, CI/CD, Docker
+Java grund, Python, SQL, Agil systemutveckling (Scrum), Infrastruktur (Linux server basics: PHP, Node.js, Apache2/Wordpress, Nginx), Testning, Git/Github.Github Actions, CI/CD, Docker, AWS Cloud, 
 
 Kurser 
 2022–06 – 2022–12
