@@ -26,7 +26,7 @@ francisc_florinel@yahoo.com
 - Testing  
 - Git/Github  
 - Github Actions, CI/CD  
-- Docker  
+- Docker/Kubernetes/Ansible  
 - AWS Cloud
 
 ---
