@@ -19,7 +19,7 @@ francisc_florinel@yahoo.com
         www.linkedin.com/in/florinel-francisc-544273310
 # Education
 
-**2023–09 – Ongoing: DevOps Engineer, Jensen Education (Higher Vocational Education) Malmö**  
+**2023–09 – 2025-06 DevOps Engineer, Jensen Education (Higher Vocational Education) Malmö**  
 - Core Java, Python, SQL  
 - Agile software development (Scrum)  
 - Infrastructure (Linux server basics: PHP, Node.js, Apache2/Wordpress, Nginx)  
